@@ -1,13 +1,13 @@
 # Python Challenge
 Purpose: Use python to conduct basic data analysis 
 
-Assignment 1: PyBank
+<b> Assignment 1: PyBank </b>
 
 Goal: Analyze financial records
 
 Data: Date and Profit/Losses
 
-Assignment 2: PyPoll
+<b> Assignment 2: PyPoll </b>
 
 Goal: Analyze vote-counting process
 
