@@ -16,7 +16,7 @@ Create a Python script that analyzes the records to calculate each of the follow
 - The greatest decrease in losses (date and amount) over the entire period
 
 <b> Results </b>  <br />
-![](results/budget.png)
+<img src = "results/budget.png" width = "50%">
 
 ## Assignment 2: PyPoll
 Objective: Modernize vote-count process for a small, rural town 
@@ -33,4 +33,4 @@ Create a Python script that analyzes the votes and calculates each of the follow
 - Winner of the election based on popular vote
 
 <b> Results </b>  <br />
-![](results/election.png)
+<img src = "results/election.png" width = "50%">
