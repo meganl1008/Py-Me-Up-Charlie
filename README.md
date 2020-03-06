@@ -4,12 +4,11 @@ Objective: Use python to conduct basic data analysis
 ## Assignment 1: PyBank
 Analyze company financial records
 
-<b> Files </b>
-date and profit/losses 
+<b> Files </b> <br />
+Date and Profit/Losses 
 
-Can provide data upon requests 
 
-<b> Process </b>
+<b> Process </b> <br />
 Create a Python script that analyzes the records to calculate each of the following:
 - The total number of months included in the dataset
 - The net total amount of “Profit/Losses” over the entire period
