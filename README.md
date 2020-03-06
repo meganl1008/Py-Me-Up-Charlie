@@ -1,4 +1,4 @@
-# PyBank and PyPoll Analysis
+# Py Me Up, Charlie
 Conduct basic data analysis using Python
 
 ## Assignment 1: PyBank
