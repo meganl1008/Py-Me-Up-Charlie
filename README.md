@@ -17,3 +17,20 @@ Create a Python script that analyzes the records to calculate each of the follow
 
 <b> Results </b>  <br />
 ![](results/budget.png)
+
+## Assignment 2: PyPoll
+Objective: Modernize vote-count process for a small, rural town 
+
+<b> Files </b> <br />
+Voter ID, County, Candidate
+
+<b> Process </b> <br />
+Create a Python script that analyzes the votes and calculates each of the following:
+- Total number of votes cast
+- Complete list of candidates who received votes
+- Percentage of votes each candidate won
+- Total number of votes each candidate won
+- Winner of the election based on popular vote
+
+<b> Results </b>  <br />
+![](results/election.png)
