@@ -1,4 +1,4 @@
-# PyBank PyPoll Analysis
+# PyBank and PyPoll Analysis
 Conduct basic data analysis using Python
 
 ## Assignment 1: PyBank
