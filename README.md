@@ -16,7 +16,7 @@ Create a Python script that analyzes the records to calculate each of the follow
 - The greatest decrease in losses (date and amount) over the entire period
 
 <b> Results </b>  <br />
-<img src = "results/budget.png" width = "50%">
+<img src = "results/budget.png" width = "60%">
 
 ## Assignment 2: PyPoll
 Objective: Modernize vote-count process for a small, rural town 
