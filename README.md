@@ -1,5 +1,5 @@
-# Python Challenge
-Conduct basic data analysis with Python
+# PyBank PyPoll Analysis
+Conduct basic data analysis using Python
 
 ## Assignment 1: PyBank
 Objective: Analyze company financial records
