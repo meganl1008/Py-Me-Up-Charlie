@@ -1,13 +1,28 @@
 # Python Challenge
-Purpose: Use python to conduct basic data analysis 
+Objective: Use python to conduct basic data analysis
 
-<b> Assignment 1: PyBank </b>
+## Assignment 1: PyBank
+Analyze company financial records
 
-Goal: Analyze financial records
+<b> Files </b>
+date and profit/losses 
 
-Data: Date and Profit/Losses
+Can provide data upon requests 
 
-<b> Assignment 2: PyPoll </b>
+<b> Process </b>
+Create a Python script that analyzes the records to calculate each of the following:
+- The total number of months included in the dataset
+- The net total amount of “Profit/Losses” over the entire period
+- The average of the changes in “Profit/Losses” over the entire period
+- The greatest increase in profits (date and amount) over the entire period
+- The greatest decrease in losses (date and amount) over the entire period
+
+<b> Results </b>
+
+
+
+
+## Assignment 2: PyPoll
 
 Goal: Analyze vote-counting process
 
