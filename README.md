@@ -16,4 +16,3 @@ Create a Python script that analyzes the records to calculate each of the follow
 - The greatest decrease in losses (date and amount) over the entire period
 
 <b> Results </b>  <br />
-![] budget.jpg
